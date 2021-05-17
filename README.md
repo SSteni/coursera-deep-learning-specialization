@@ -1,2 +1,8 @@
-# coursera-deep-learning-specialization
-Notes, programming assignments and quizzes from all courses within the Coursera Deep Learning specialization offered by deeplearning.ai: (i) Neural Networks and Deep Learning; (ii) Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization; (iii) Structuring Machine Learning Projects; (iv) Convolutional Neural Networks; (v) Sequence Models
+## Deep Learning Specialization on Coursera (offered by deeplearning.ai)
+
+Programming assignments and quizzes from all courses in the Coursera [Deep Learning specialization](https://www.coursera.org/specializations/deep-learning) offered by deeplearning.ai.
+
+Instructor: [Andrew Ng](https://www.andrewng.org/)
+
+
+
